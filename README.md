@@ -15,8 +15,6 @@ This project focuses on the design and development of a low-cost quadruped robot
 - Gait-based locomotion
 - Modular and expandable design
 
----
-
 ## Hardware Components
 
 | Component              | Quantity   |
@@ -29,8 +27,6 @@ This project focuses on the design and development of a low-cost quadruped robot
 | Jumper Wires           |        20+ |
 | Custom Chassis         |        1   |
 
----
-
 ## Working Principle
 
 Each leg consists of three servo motors providing three degrees of freedom:
@@ -41,8 +37,6 @@ Each leg consists of three servo motors providing three degrees of freedom:
 
 The Arduino Uno communicates with the PCA9685 servo driver through I2C. The PCA9685 generates PWM signals to control all twelve servo motors and execute coordinated gait patterns for stable locomotion.
 
----
-
 ## Screenshots
 
 ### Front View
@@ -50,8 +44,6 @@ The Arduino Uno communicates with the PCA9685 servo driver through I2C. The PCA9
 
 ### Top View
 ![Top View](images/robot-top.jpg)
-
----
 
 ## Applications
 
@@ -61,8 +53,6 @@ The Arduino Uno communicates with the PCA9685 servo driver through I2C. The PCA9
 - Research and experimentation
 - Autonomous robotic platforms
 
----
-
 ## Future Improvements
 
 - Obstacle avoidance
@@ -71,8 +61,6 @@ The Arduino Uno communicates with the PCA9685 servo driver through I2C. The PCA9
 - Terrain-adaptive gait algorithms
 - Computer vision integration
 
----
-
 ## Technologies Used
 
 - Arduino IDE
@@ -80,8 +68,6 @@ The Arduino Uno communicates with the PCA9685 servo driver through I2C. The PCA9
 - I2C Communication
 - PWM Servo Control
 - Robotics and Mechatronics
-
----
 
 ## License
 
