@@ -40,10 +40,10 @@ The Arduino Uno communicates with the PCA9685 servo driver through I2C. The PCA9
 ## Screenshots
 
 ### Front View
-![Front View](images/robot-front.jpg)
+![Front View](images/robot-front.jpg.jpeg)
 
 ### Top View
-![Top View](images/robot-top.jpg)
+![Top View](images/robot-top.jpg.jpeg)
 
 ## Applications
 
