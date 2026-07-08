@@ -66,7 +66,7 @@ The Arduino Uno communicates with the PCA9685 servo driver through I2C. The PCA9
 - PWM Servo Control
 - Robotics and Mechatronics
 
-**Note:** This repository contains a reconstructed implementation of the robot's gait control algorithm based on the original project design and hardware configuration.
+**Note:** The arduino code in this repo is a reconstructed implementation of the robot's original gait control algorithm based on the original project design and hardware configuration as the original program was lost.
 
 ## License
 
